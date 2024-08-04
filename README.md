@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muthuluri Ramya sri</h1>
-<h3 align="center">I'm a passionate technology enthusiast with knowledge of data science, data analysis, and machine learning.</h3>
+<h3 align="center">I'm a passionate technology enthusiast with knowledge of data science, data analysis, Machine learning and Web Development</h3>
 <img align= "right" alt="coding" width="200" src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mramya-sri&label=Profile%20views&color=0e75b6&style=flat" alt="mramya-sri" /> </p>
@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mramya-sri&label=Profile%20views&color=0e75b6&style=flat" alt="mramya-sri" /> </p>
 
-- 💬 Ask me about **Data Science, Analysis and ML.**
+- 💬 Ask me about **Data Science, Analysis, ML and Web Development**
 
 - 📫 How to reach me **ramyasrimuthuluri@gmail.com**
 
